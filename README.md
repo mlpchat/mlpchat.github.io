@@ -1,2 +1,2 @@
 # mlpchat.github.io
-MLP Chat Site
+Теперь сайт оффициально переехал на https://chatpony.github.io
